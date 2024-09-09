@@ -4,7 +4,7 @@ Slides and sample code on the training JavaScript Fundamentals, Ilionx, Fall 202
 # Example code
 - available at https://github.com/PeterKassenaar/javascript-fundamentals
 
-# More examples
+# Links
 - ...
 
 Questions? Feel free to reach out at info@kassenaar.com. 
