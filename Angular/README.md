@@ -1,8 +1,11 @@
 # ilionx
 
-Slides and sample code on various trainings Ilionx, Young Professional Program, Fall 2024
+Slides and sample code on the training Angular Fundamentals, Ilionx, Fall 2024
 
-- See the different folders in the repo for slides, example code and more. This repo will be deleted on Nov. 1, 2024.
-  Make sure you have a copy before that date.
+# Example code
+- available at https://github.com/PeterKassenaar/voorbeeldenAngular2 
+
+# Links
+- ...
 
 Questions? Feel free to reach out at info@kassenaar.com. 

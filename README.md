@@ -1,12 +1,8 @@
 # ilionx
-Slides and sample code on the training JavaScript Fundamentals, Ilionx, Fall 2024
 
-# Example code
-- available at https://github.com/PeterKassenaar/javascript-fundamentals
+Slides and sample code on various trainings Ilionx, Young Professional Program, Fall 2024
 
-# Links
-- Scripting (e.g. JavaScript) in Adobe Photoshop: https://helpx.adobe.com/photoshop/using/scripting.html
-- "The modern JavaScript Tutorial": https://javascript.info/
-- 
+- See the different folders in the repo for slides, example code and more. This repo will be deleted on Nov. 1, 2024.
+  Make sure you have a copy before that date.
 
-Questions? Feel free to reach out at info@kassenaar.com. 
+Questions? Feel free to reach out at info@kassenaar.com.
