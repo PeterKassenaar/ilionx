@@ -8,4 +8,6 @@ slides and sample code on the training Angular Fundamentals, Ilionx, Spring 2025
 
 
 ## Links
+* More on monorepo structure, NX: https://nx.dev/
+* More on Angular: https://angular.dev/
 * ...
