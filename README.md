@@ -11,3 +11,21 @@ slides and sample code on the training Angular Fundamentals, Ilionx, Spring 2025
 * More on monorepo structure, NX: https://nx.dev/
 * More on Angular: https://angular.dev/
 * ...
+
+# Examples
+
+We talked about `@HostListener`. You can use this as an example:
+
+```typescript
+@HostListener('window:online', ['$event'])
+onOnline(event: any) {
+    this.bgColor= 'green';
+    // Go syncing, show message we are online again
+}
+
+@HostListener('window:offline', ['$event'])
+onOffline(event: any) {
+    this.bgColor= 'red';
+    // We are offline, show a message.
+}
+```
