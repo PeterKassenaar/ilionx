@@ -1,6 +1,6 @@
 # ilionx
 
-slides and sample code on the training Angular Fundamentals, Ilionx, Spring 2025
+Slides and sample code on the training Angular Fundamentals, Ilionx, Young Professional Program, Spring 2025.
 
 * See the various slides in the `./slides` directory. 
 * This repo will be deleted on 19 June, 2025. Make sure you have a copy before that date.
@@ -10,6 +10,7 @@ slides and sample code on the training Angular Fundamentals, Ilionx, Spring 2025
 ## Links
 * More on monorepo structure, NX: https://nx.dev/
 * More on Angular: https://angular.dev/
+* Please fill in the evaluation: https://globalknowledge.az1.qualtrics.com/jfe/form/SV_2l9xxtKvLOyJCKN?EVENTID=NL242807
 * ...
 
 # Examples
